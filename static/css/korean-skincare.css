@@ -1,0 +1,41 @@
+.main-content-korean-skincare { 
+    margin-left: 90px;
+}
+
+/*korean-skincare Header Style*/
+.korean-skincare-header .beauty-parag {
+    color: #a4a4a4;
+}
+
+.korean-skincare-header h3 {
+    color: #484848;
+    font-size: 38px;
+    margin-bottom: 18px;
+}
+
+.korean-skincare-information h4 {
+    color: #363636;
+    font-size: 18px;
+    width: 80%;
+    padding-bottom: 50px;
+    line-height: 1.6;
+}
+
+.korean-skincare-image img {
+    width: 40%;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+/*End B-Crop Header Style*/
+
+/*B-Crop Content*/
+.main-content-korean-skincare p {
+    color: #363636;
+    font-size: 18px;
+    width: 80%;
+    padding-bottom: 30px;
+    line-height: 1.3;
+}
+
+
+/*End B-Crop Content*/

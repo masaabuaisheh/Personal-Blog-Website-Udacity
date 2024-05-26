@@ -1,0 +1,75 @@
+.main-content-b-crop { 
+    margin-left: 90px;
+}
+
+.navigation-bar-back {
+    display: flex;
+    flex-direction: row;
+    padding-left: 43%; 
+
+}
+
+.navigation-bar-back a {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    color: #3a3a3a;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.navigation-bar-back a:hover {
+    color: rgb(245, 151, 148);
+}
+
+/*B-Crop Header Style*/
+.b-crop-header .beauty-parag {
+    color: #a4a4a4;
+}
+
+.b-crop-header h3 {
+    color: #484848;
+    font-size: 38px;
+    margin-bottom: 18px;
+}
+
+.b-crop-information h4 {
+    color: #363636;
+    font-size: 18px;
+    width: 80%;
+    padding-bottom: 50px;
+    line-height: 1.6;
+}
+
+.b-crop-image img {
+    width: 40%;
+    margin-left: 200px;
+}
+/*End B-Crop Header Style*/
+
+/*B-Crop Content*/
+.main-content-b-crop p {
+    color: #363636;
+    font-size: 18px;
+    width: 80%;
+    padding-bottom: 30px;
+    line-height: 1.3;
+}
+
+.b-crop-image2 img {
+    width: 40%;
+    margin-left: 200px;
+    margin-top: 20px ;
+}
+
+.main-content-b-crop blockquote {
+    color: #363636;
+    font-size: 18px;
+    padding-bottom: 30px;
+    margin-top: 5px;
+    line-height: 1.3;
+}
+
+
+
+/*End B-Crop Content*/
